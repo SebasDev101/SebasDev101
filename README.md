@@ -50,7 +50,7 @@
 <div align="left">
   <h3><img src="GIF/cat1.gif" width="35px" alt="Icono gato 1"> | Mi racha de contribuciones</h3>
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=SebasDev101&theme=transparent&hide_border=true&border_radius=0&locale=es&exclude_days=Sun%2CSat" alt="Estadísticas de contribuciones GitHub" />
+    <img src="https://streak-stats.demolab.com?user=SebasDev101&theme=transparent&hide_border=true&locale=es&exclude_days=Sun%2CSat" alt="Estadísticas de contribuciones GitHub" />
   </p>
 </div>
 
